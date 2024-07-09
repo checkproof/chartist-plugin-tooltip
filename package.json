@@ -1,0 +1,10 @@
+{
+  "name": "chartist-plugin-tooltip",
+  "version": "0.0.12",
+  "description": "Tooltip plugin for Chartist.js.",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/checkproof/chartist-plugin-tooltip"
+  }
+}
